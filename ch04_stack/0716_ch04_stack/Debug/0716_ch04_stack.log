@@ -1,0 +1,19 @@
+﻿  3.c
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(24): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(24): warning C4024: 'init_stack': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(25): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(25): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(26): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(26): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(27): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(27): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(28): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(28): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(29): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(29): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(30): warning C4047: '함수': 'StackType *'의 간접 참조 수준이 'StackType **'과(와) 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(30): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(41): warning C4133: '=': 'StackType *'과(와) 'element *' 사이의 형식이 호환되지 않습니다.
+c:\users\harim\desktop\19_03_01.5\datastructure\0716_ch04_stack\0716_ch04_stack\3.c(59): warning C4133: '=': 'StackType *'과(와) 'element *' 사이의 형식이 호환되지 않습니다.
+  0716_ch04_stack.vcxproj -> C:\Users\Harim\Desktop\19_03_01.5\DataStructure\0716_ch04_stack\Debug\0716_ch04_stack.exe
+  0716_ch04_stack.vcxproj -> C:\Users\Harim\Desktop\19_03_01.5\DataStructure\0716_ch04_stack\Debug\0716_ch04_stack.pdb (Partial PDB)
